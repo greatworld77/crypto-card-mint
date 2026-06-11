@@ -16,7 +16,7 @@ createAppKit({
   metadata: {
     name: 'Crypto Card NFT',
     description: 'Crypto Card NFT Minting App',
-    url: 'https://upgraded-memory-7vx654gx6wv93p7v4-3000.app.github.dev',
-    icons: ['https://upgraded-memory-7vx654gx6wv93p7v4-3000.app.github.dev/favicon.ico']
+    url: 'https://crypto-card-mint.vercel.app',
+    icons: ['https://crypto-card-mint.vercel.app/favicon.ico']
   }
 })
