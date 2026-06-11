@@ -26,9 +26,7 @@ export default function Home() {
               First 1000 users receive $5 Card Bonus
             </p>
 
-            <button
-              className="mt-6 w-full bg-blue-600 p-4 rounded-xl"
-            >
+            <button className="mt-6 w-full bg-blue-600 p-4 rounded-xl">
               Mint Virtual NFT
             </button>
           </div>
@@ -46,9 +44,7 @@ export default function Home() {
               Receive $15 Purchase Bonus
             </p>
 
-            <button
-              className="mt-6 w-full bg-purple-600 p-4 rounded-xl"
-            >
+            <button className="mt-6 w-full bg-purple-600 p-4 rounded-xl">
               Mint Physical NFT
             </button>
           </div>
@@ -64,9 +60,7 @@ export default function Home() {
             Receive NFT with 10% Reload Bonus (Max $500)
           </p>
 
-          <button
-            className="mt-6 bg-green-600 px-8 py-4 rounded-xl"
-          >
+          <button className="mt-6 bg-green-600 px-8 py-4 rounded-xl">
             Mint Free NFT
           </button>
         </div>
